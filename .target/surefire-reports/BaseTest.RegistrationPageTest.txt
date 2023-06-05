@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: BaseTest.RegistrationPageTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 71.221 s - in BaseTest.RegistrationPageTest
