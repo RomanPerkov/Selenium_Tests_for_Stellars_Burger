@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: BaseTest.PersonalCabinetPageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 165.036 s - in BaseTest.PersonalCabinetPageTest

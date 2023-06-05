@@ -1,0 +1,16 @@
+Config\ClientsFactory.class
+base_page\CommonConstants\CommonConstants.class
+base_page\Constructor.class
+base_page\PersonalCabinetPage.class
+base_page\CommonConstants\CommonConstants$LoginPageConstants.class
+services\RestClientService.class
+base_page\HomePage.class
+base_page\PasswordRecoveryPage.class
+Config\Config.class
+services\UserApiService.class
+base_page\CommonConstants\CommonConstants$RegistrationAndLoginPageConstants.class
+base_page\RegistrationPage.class
+base_page\BasePage.class
+base_page\CommonConstants\CommonConstants$PersonalCabinetConstants.class
+base_page\CommonConstants\CommonConstants$HomePageConstants.class
+base_page\LoginPage.class
